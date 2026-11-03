@@ -1,0 +1,7 @@
+asciinema-player 3.17.0
+https://github.com/asciinema/asciinema-player/tree/v3.17.0
+
+Author: Marcin Kulik and contributors
+Licensed under the Apache License, Version 2.0. See LICENSE.txt.
+
+The minified JavaScript bundle and stylesheet are vendored unchanged from the published asciinema-player 3.17.0 package and are loaded lazily by this site.

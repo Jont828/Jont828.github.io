@@ -1,0 +1,18 @@
+Dynamo terminal demo
+
+The recording in hero-demo-28.cast is adapted from Jonathan’s local ai-dynamo
+hero-demo branch recording at old/hero-demo-28.cast. The recording and the
+site-native player integration derive from the NVIDIA Dynamo documentation demo.
+
+The palette utility in apply-apple-theme.py is adapted from:
+https://github.com/ai-dynamo/dynamo/blob/main/docs/fern/scripts/hero-demo/apply-hero-theme.py
+
+The player integration is adapted from:
+https://github.com/ai-dynamo/dynamo/blob/main/docs/fern/components/TerminalDemo.tsx
+
+SPDX-FileCopyrightText: Copyright (c) 2025-2026 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+SPDX-License-Identifier: Apache-2.0
+
+Local modifications: the recording uses 28 terminal rows, and its embedded color
+palette was adjusted to a neutral Apple-inspired dark scheme. Playback is
+provided by a locally vendored copy of asciinema-player 3.17.0, loaded lazily.
